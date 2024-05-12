@@ -47,4 +47,4 @@ Summarize the results of the machine learning models, and include a recommendati
         Yes, performace does depend on the problem we are trying to solve. For example credit risk might allow for more tolerance that medical devices.
 
 If you do not recommend any of the models, please justify your reasoning.
-    In this scenario, the ability to predict the loans that will be paid back is strong and the ability to predict those that will default also works well and I would recommend these models.
+    In this scenario, the ability to predict the loans that will be paid back is strong and the ability to predict those that will default also works well and I would recommend the logistic model.
